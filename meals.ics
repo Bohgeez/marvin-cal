@@ -40,4 +40,39 @@ DTEND;VALUE=DATE:20260424
 SUMMARY:🍽 Mac and Cheese with Sausage
 DESCRIPTION:Cook time: 20 min
 END:VEVENT
+BEGIN:VEVENT
+UID:2026-04-24-meal@plan.py
+DTSTART;VALUE=DATE:20260424
+DTEND;VALUE=DATE:20260425
+SUMMARY:🍽 Rotisserie Chicken + Sides
+DESCRIPTION:Cook time: 15 min | Sides: bettergoods roasted potatoes, Mediterranean grilled veg | Day-of pickup — grab on the way home from Rapid Valley
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-04-25-meal@plan.py
+DTSTART;VALUE=DATE:20260425
+DTEND;VALUE=DATE:20260426
+SUMMARY:🍽 Beef Chili + Cornbread
+DESCRIPTION:Cook time: 60 min | Sides: cornbread
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-04-26-meal@plan.py
+DTSTART;VALUE=DATE:20260426
+DTEND;VALUE=DATE:20260427
+SUMMARY:🍽 Sausage & Potato Soup
+DESCRIPTION:Cook time: 50 min | Sides: garlic bread
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-04-27-meal@plan.py
+DTSTART;VALUE=DATE:20260427
+DTEND;VALUE=DATE:20260428
+SUMMARY:🍽 bettergoods Skillet Meal
+DESCRIPTION:Cook time: 20 min
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-04-28-meal@plan.py
+DTSTART;VALUE=DATE:20260428
+DTEND;VALUE=DATE:20260429
+SUMMARY:🍽 Teriyaki Chicken + Rice
+DESCRIPTION:Cook time: 35 min | Sides: broccoli florets | Pull chicken from deep freeze Sat night to thaw — marinate Sunday morning
+END:VEVENT
 END:VCALENDAR
