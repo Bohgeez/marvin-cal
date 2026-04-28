@@ -27,13 +27,6 @@ SUMMARY:🍽 Alfredo Pasta with Italian Sausage
 DESCRIPTION:Cook time: 30 min
 END:VEVENT
 BEGIN:VEVENT
-UID:2026-04-22-meal@plan.py
-DTSTART;VALUE=DATE:20260422
-DTEND;VALUE=DATE:20260423
-SUMMARY:🍽 Frozen Pizza Night
-DESCRIPTION:Cook time: 22 min | Sides: bagged salad
-END:VEVENT
-BEGIN:VEVENT
 UID:2026-04-23-meal@plan.py
 DTSTART;VALUE=DATE:20260423
 DTEND;VALUE=DATE:20260424
@@ -48,13 +41,6 @@ SUMMARY:🍽 Rotisserie Chicken + Sides
 DESCRIPTION:Cook time: 15 min | Sides: bettergoods roasted potatoes, Mediterranean grilled veg | Day-of pickup — grab on the way home from Rapid Valley
 END:VEVENT
 BEGIN:VEVENT
-UID:2026-04-25-meal@plan.py
-DTSTART;VALUE=DATE:20260425
-DTEND;VALUE=DATE:20260426
-SUMMARY:🍽 Beef Chili + Cornbread
-DESCRIPTION:Cook time: 60 min | Sides: cornbread
-END:VEVENT
-BEGIN:VEVENT
 UID:2026-04-26-meal@plan.py
 DTSTART;VALUE=DATE:20260426
 DTEND;VALUE=DATE:20260427
@@ -62,17 +48,45 @@ SUMMARY:🍽 Sausage & Potato Soup
 DESCRIPTION:Cook time: 50 min | Sides: garlic bread
 END:VEVENT
 BEGIN:VEVENT
-UID:2026-04-27-meal@plan.py
-DTSTART;VALUE=DATE:20260427
-DTEND;VALUE=DATE:20260428
-SUMMARY:🍽 bettergoods Skillet Meal
-DESCRIPTION:Cook time: 20 min
-END:VEVENT
-BEGIN:VEVENT
 UID:2026-04-28-meal@plan.py
 DTSTART;VALUE=DATE:20260428
 DTEND;VALUE=DATE:20260429
 SUMMARY:🍽 Teriyaki Chicken + Rice
-DESCRIPTION:Cook time: 35 min | Sides: broccoli florets | Pull chicken from deep freeze Sat night to thaw — marinate Sunday morning
+DESCRIPTION:Cook time: 35 min | Sides: broccoli florets
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-04-29-meal@plan.py
+DTSTART;VALUE=DATE:20260429
+DTEND;VALUE=DATE:20260430
+SUMMARY:🍽 Chicken Wings Night
+DESCRIPTION:Cook time: 35 min
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-04-30-meal@plan.py
+DTSTART;VALUE=DATE:20260430
+DTEND;VALUE=DATE:20260501
+SUMMARY:🍽 Sausage Gravy + Biscuits
+DESCRIPTION:Cook time: 25 min
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-05-01-meal@plan.py
+DTSTART;VALUE=DATE:20260501
+DTEND;VALUE=DATE:20260502
+SUMMARY:🍽 Italian Sausage Pasta
+DESCRIPTION:Cook time: 35 min
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-05-02-meal@plan.py
+DTSTART;VALUE=DATE:20260502
+DTEND;VALUE=DATE:20260503
+SUMMARY:🍽 Pork Chops + Roasted Potatoes
+DESCRIPTION:Cook time: 45 min
+END:VEVENT
+BEGIN:VEVENT
+UID:lowstock-20260428@plan.py
+DTSTART;VALUE=DATE:20260428
+DTEND;VALUE=DATE:20260429
+SUMMARY:🛒 Low Stock — 4 item(s)
+DESCRIPTION:• Chobani Flip Greek Yogurt (S'mores / Cookie Dough — prior stock) — 2.0 cups (min 2 cups) [familyfare]\n• Smucker's Uncrustables Hazelnut — 4.0 each (min 4 each) [walmart]\n• Ground Beef (portioned) — OUT (min 1.5 lb) [walmart]\n• Honeycrisp Apples — OUT (min 1 lb) [familyfare]
 END:VEVENT
 END:VCALENDAR
