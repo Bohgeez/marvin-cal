@@ -48,45 +48,59 @@ SUMMARY:🍽 Sausage & Potato Soup
 DESCRIPTION:Cook time: 50 min | Sides: garlic bread
 END:VEVENT
 BEGIN:VEVENT
-UID:2026-04-28-meal@plan.py
-DTSTART;VALUE=DATE:20260428
-DTEND;VALUE=DATE:20260429
-SUMMARY:🍽 Teriyaki Chicken + Rice
-DESCRIPTION:Cook time: 35 min | Sides: broccoli florets
-END:VEVENT
-BEGIN:VEVENT
-UID:2026-04-29-meal@plan.py
-DTSTART;VALUE=DATE:20260429
-DTEND;VALUE=DATE:20260430
-SUMMARY:🍽 Chicken Wings Night
-DESCRIPTION:Cook time: 35 min
-END:VEVENT
-BEGIN:VEVENT
-UID:2026-04-30-meal@plan.py
-DTSTART;VALUE=DATE:20260430
-DTEND;VALUE=DATE:20260501
-SUMMARY:🍽 Sloppy Joes
-DESCRIPTION:Cook time: 20 min
-END:VEVENT
-BEGIN:VEVENT
-UID:2026-05-01-meal@plan.py
-DTSTART;VALUE=DATE:20260501
-DTEND;VALUE=DATE:20260502
-SUMMARY:🍽 Italian Sausage Pasta
-DESCRIPTION:Cook time: 35 min
-END:VEVENT
-BEGIN:VEVENT
-UID:2026-05-02-meal@plan.py
-DTSTART;VALUE=DATE:20260502
-DTEND;VALUE=DATE:20260503
+UID:2026-05-03-meal@plan.py
+DTSTART;VALUE=DATE:20260503
+DTEND;VALUE=DATE:20260504
 SUMMARY:🍽 Pork Chops + Roasted Potatoes
 DESCRIPTION:Cook time: 45 min
 END:VEVENT
 BEGIN:VEVENT
-UID:lowstock-20260428@plan.py
-DTSTART;VALUE=DATE:20260428
-DTEND;VALUE=DATE:20260429
-SUMMARY:🛒 Low Stock — 4 item(s)
-DESCRIPTION:• Chobani Flip Greek Yogurt (S'mores / Cookie Dough — prior stock) — 2.0 cups (min 2 cups) [familyfare]\n• Smucker's Uncrustables Hazelnut — 4.0 each (min 4 each) [walmart]\n• Ground Beef (portioned) — OUT (min 1.5 lb) [walmart]\n• Honeycrisp Apples — OUT (min 1 lb) [familyfare]
+UID:2026-05-04-meal@plan.py
+DTSTART;VALUE=DATE:20260504
+DTEND;VALUE=DATE:20260505
+SUMMARY:🍽 Sausage Gravy + Biscuits
+DESCRIPTION:Cook time: 25 min
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-05-05-meal@plan.py
+DTSTART;VALUE=DATE:20260505
+DTEND;VALUE=DATE:20260506
+SUMMARY:🍽 Taco Tuesday
+DESCRIPTION:Cook time: 30 min
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-05-06-meal@plan.py
+DTSTART;VALUE=DATE:20260506
+DTEND;VALUE=DATE:20260507
+SUMMARY:🍽 Ravioli Night
+DESCRIPTION:Cook time: 20 min
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-05-07-meal@plan.py
+DTSTART;VALUE=DATE:20260507
+DTEND;VALUE=DATE:20260508
+SUMMARY:🍽 Pasta with Meat Sauce
+DESCRIPTION:Cook time: 35 min
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-05-08-meal@plan.py
+DTSTART;VALUE=DATE:20260508
+DTEND;VALUE=DATE:20260509
+SUMMARY:🍽 Kielbasa + Roasted Potatoes
+DESCRIPTION:Cook time: 30 min
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-05-09-meal@plan.py
+DTSTART;VALUE=DATE:20260509
+DTEND;VALUE=DATE:20260510
+SUMMARY:🍽 Birria Tacos
+DESCRIPTION:Cook time: 45 min
+END:VEVENT
+BEGIN:VEVENT
+UID:lowstock-20260503@plan.py
+DTSTART;VALUE=DATE:20260503
+DTEND;VALUE=DATE:20260504
+SUMMARY:🛒 Low Stock — 5 item(s)
+DESCRIPTION:• Chobani Flip Greek Yogurt (S'mores / Cookie Dough — prior stock) — 2.0 cups (min 2 cups) [familyfare]\n• Smucker's Uncrustables Hazelnut — 4.0 each (min 4 each) [walmart]\n• Ground Beef (portioned) — 0.5 lb (min 1.5 lb) [walmart]\n• Honeycrisp Apples — OUT (min 1 lb) [familyfare]\n• RAGU Chunky Pasta Sauce — 1.0 jar (min 1 jar) [walmart]
 END:VEVENT
 END:VCALENDAR
