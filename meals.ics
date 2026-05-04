@@ -48,18 +48,11 @@ SUMMARY:🍽 Sausage & Potato Soup
 DESCRIPTION:Cook time: 50 min | Sides: garlic bread
 END:VEVENT
 BEGIN:VEVENT
-UID:2026-05-03-meal@plan.py
-DTSTART;VALUE=DATE:20260503
-DTEND;VALUE=DATE:20260504
-SUMMARY:🍽 Pork Chops + Roasted Potatoes
-DESCRIPTION:Cook time: 45 min
-END:VEVENT
-BEGIN:VEVENT
 UID:2026-05-04-meal@plan.py
 DTSTART;VALUE=DATE:20260504
 DTEND;VALUE=DATE:20260505
-SUMMARY:🍽 Sausage Gravy + Biscuits
-DESCRIPTION:Cook time: 25 min
+SUMMARY:🍽 Pork Chops + Roasted Potatoes
+DESCRIPTION:Cook time: 45 min
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-05-05-meal@plan.py
@@ -97,10 +90,17 @@ SUMMARY:🍽 Birria Tacos
 DESCRIPTION:Cook time: 45 min
 END:VEVENT
 BEGIN:VEVENT
+UID:2026-05-10-meal@plan.py
+DTSTART;VALUE=DATE:20260510
+DTEND;VALUE=DATE:20260511
+SUMMARY:🍽 Sausage & Potato Soup
+DESCRIPTION:Cook time: 50 min | Sides: garlic bread | Half lb Jimmy Dean regular + 1 Hillshire kielbasa for extra protein
+END:VEVENT
+BEGIN:VEVENT
 UID:lowstock-20260503@plan.py
 DTSTART;VALUE=DATE:20260503
 DTEND;VALUE=DATE:20260504
 SUMMARY:🛒 Low Stock — 5 item(s)
-DESCRIPTION:• Chobani Flip Greek Yogurt (S'mores / Cookie Dough — prior stock) — 2.0 cups (min 2 cups) [familyfare]\n• Smucker's Uncrustables Hazelnut — 4.0 each (min 4 each) [walmart]\n• Ground Beef (portioned) — 0.5 lb (min 1.5 lb) [walmart]\n• Honeycrisp Apples — OUT (min 1 lb) [familyfare]\n• RAGU Chunky Pasta Sauce — 1.0 jar (min 1 jar) [walmart]
+DESCRIPTION:• Chobani Flip Greek Yogurt (S'mores / Cookie Dough — prior stock) — 2.0 cups (min 2 cups) [familyfare]\n• Smucker's Uncrustables Hazelnut — 4.0 each (min 4 each) [walmart]\n• Ground Beef (portioned) — OUT (min 1.5 lb) [walmart]\n• Honeycrisp Apples — OUT (min 1 lb) [familyfare]\n• RAGU Chunky Pasta Sauce — 1.0 jar (min 1 jar) [walmart]
 END:VEVENT
 END:VCALENDAR
