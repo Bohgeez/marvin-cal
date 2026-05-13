@@ -83,23 +83,58 @@ SUMMARY:🍽 Kielbasa + Roasted Potatoes
 DESCRIPTION:Cook time: 30 min
 END:VEVENT
 BEGIN:VEVENT
-UID:2026-05-09-meal@plan.py
-DTSTART;VALUE=DATE:20260509
-DTEND;VALUE=DATE:20260510
-SUMMARY:🍽 Birria Tacos
-DESCRIPTION:Cook time: 45 min
+UID:2026-05-11-meal@plan.py
+DTSTART;VALUE=DATE:20260511
+DTEND;VALUE=DATE:20260512
+SUMMARY:🍽 Hot Dog Night
+DESCRIPTION:Cook time: 15 min | Sides: Kraft Deluxe mac and cheese, frozen broccoli | Hot dogs + Kraft Deluxe mac + frozen broccoli. Put pork chops in fridge to defrost tonight.
 END:VEVENT
 BEGIN:VEVENT
-UID:2026-05-10-meal@plan.py
-DTSTART;VALUE=DATE:20260510
-DTEND;VALUE=DATE:20260511
+UID:2026-05-12-meal@plan.py
+DTSTART;VALUE=DATE:20260512
+DTEND;VALUE=DATE:20260513
+SUMMARY:🍽 Mac and Cheese with Sausage
+DESCRIPTION:Cook time: 20 min | Kielbasa pickup today + Kraft Deluxe + frozen broccoli
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-05-13-meal@plan.py
+DTSTART;VALUE=DATE:20260513
+DTEND;VALUE=DATE:20260514
+SUMMARY:🍽 Pork Chops + Roasted Potatoes
+DESCRIPTION:Cook time: 45 min | Defrosted from Mon night — sub instant mashed + corn for bell peppers
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-05-14-meal@plan.py
+DTSTART;VALUE=DATE:20260514
+DTEND;VALUE=DATE:20260515
+SUMMARY:🍽 Hot Dog Night
+DESCRIPTION:Cook time: 15 min | Sides: country style baked beans, sweet corn
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-05-15-meal@plan.py
+DTSTART;VALUE=DATE:20260515
+DTEND;VALUE=DATE:20260516
+SUMMARY:🍽 Alfredo Pasta with Italian Sausage
+DESCRIPTION:Cook time: 30 min | Sides: frozen broccoli, garlic bread | Buy 1 lb Italian sausage — basil alfredo + frozen broccoli all in stock
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-05-16-meal@plan.py
+DTSTART;VALUE=DATE:20260516
+DTEND;VALUE=DATE:20260517
 SUMMARY:🍽 Sausage & Potato Soup
-DESCRIPTION:Cook time: 50 min | Sides: garlic bread | Half lb Jimmy Dean regular + 1 Hillshire kielbasa for extra protein
+DESCRIPTION:Cook time: 50 min | Sides: garlic bread | Italian sausage shared with May 15 buy + 1 Hillshire kielbasa — have celery, potato, onion, bouillon
 END:VEVENT
 BEGIN:VEVENT
-UID:lowstock-20260503@plan.py
-DTSTART;VALUE=DATE:20260503
-DTEND;VALUE=DATE:20260504
+UID:2026-05-17-meal@plan.py
+DTSTART;VALUE=DATE:20260517
+DTEND;VALUE=DATE:20260518
+SUMMARY:🍽 — flexible —
+DESCRIPTION:Leftovers or pivot
+END:VEVENT
+BEGIN:VEVENT
+UID:lowstock-20260513@plan.py
+DTSTART;VALUE=DATE:20260513
+DTEND;VALUE=DATE:20260514
 SUMMARY:🛒 Low Stock — 5 item(s)
 DESCRIPTION:• Chobani Flip Greek Yogurt (S'mores / Cookie Dough — prior stock) — 2.0 cups (min 2 cups) [familyfare]\n• Smucker's Uncrustables Hazelnut — 4.0 each (min 4 each) [walmart]\n• Ground Beef (portioned) — OUT (min 1.5 lb) [walmart]\n• Honeycrisp Apples — OUT (min 1 lb) [familyfare]\n• RAGU Chunky Pasta Sauce — 1.0 jar (min 1 jar) [walmart]
 END:VEVENT
