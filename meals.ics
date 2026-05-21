@@ -230,6 +230,13 @@ SUMMARY:🍽 Sloppy Joes
 DESCRIPTION:Cook time: 20 min\n\nSides: sweet corn / Knorr noodles\n\nManwich + ground beef. Done in 20 minutes. Serve with Del Monte corn.\n\nIngredients:\n• 1 lb – 73% Lean / 27% Fat Ground Beef\, 1 lb\n• 1 can – Manwich Original Sloppy Joe Sauce\, 15 oz\n• 1 pkg – Ball Park White Hot Dog Buns OR Burger Buns\, 8 ct\n• 0.5 pack – Del Monte Golden Sweet Whole Kernel Corn\, 15.25 oz (4-pack)
 END:VEVENT
 BEGIN:VEVENT
+UID:2026-05-28-schedprep@plan.py
+DTSTART;VALUE=DATE:20260527
+DTEND;VALUE=DATE:20260528
+SUMMARY:🛒 Restock perishables: milk (1 gal)\, bananas\, lettuce\, tomatoes — ~$15 Walmart
+DESCRIPTION:Sloppy Joes is tomorrow
+END:VEVENT
+BEGIN:VEVENT
 UID:2026-05-29-meal@plan.py
 DTSTART;VALUE=DATE:20260529
 DTEND;VALUE=DATE:20260530
