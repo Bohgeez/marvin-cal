@@ -244,6 +244,13 @@ SUMMARY:🍽 Italian Sausage Pasta
 DESCRIPTION:Cook time: 35 min\n\nSides: frozen broccoli / garlic bread\n\nBrown sausage with bell peppers and onions\, add sauce. Works great with any pasta shape.\n\nIngredients:\n• 1 lb – Marketside Mild Ground Italian Sausage\, 1 lb\n• 1 jar – Prego Creamy Tomato Pasta Sauce OR RAGU\, 24 oz\n• 1 box – bettergoods Bronze Cut Pasta\, 16 oz\n• 2 each – Fresh Green Bell Peppers\n• 0.5 each – Fresh Sweet Onion\n• 1 pkg – Amodeo's Five Cheese Breadsticks (frozen)
 END:VEVENT
 BEGIN:VEVENT
+UID:2026-05-30-schedprep@plan.py
+DTSTART;VALUE=DATE:20260529
+DTEND;VALUE=DATE:20260530
+SUMMARY:🧊 Defrost Italian sausage from deep freeze for tomorrow's pasta
+DESCRIPTION:Italian Sausage Pasta is tomorrow
+END:VEVENT
+BEGIN:VEVENT
 UID:2026-05-31-meal@plan.py
 DTSTART;VALUE=DATE:20260531
 DTEND;VALUE=DATE:20260601
@@ -251,11 +258,25 @@ SUMMARY:🍽 Chicken Wings Night
 DESCRIPTION:Cook time: 35 min\n\nSides: mac and cheese / sweet corn\n\nbettergoods Garlic Butter Dry Rub wings from frozen. Add a side of mac & cheese or fries.\n\nIngredients:\n• 2 bag – bettergoods Chicken Wings with Garlic Butter Dry Rub\, 22 oz\n• 1 box – Kraft Deluxe Mac and Cheese\, 14 oz (side)
 END:VEVENT
 BEGIN:VEVENT
+UID:2026-05-31-schedprep@plan.py
+DTSTART;VALUE=DATE:20260530
+DTEND;VALUE=DATE:20260531
+SUMMARY:🧊 Defrost chicken wings from deep freeze for tomorrow
+DESCRIPTION:Chicken Wings Night is tomorrow
+END:VEVENT
+BEGIN:VEVENT
 UID:2026-06-01-meal@plan.py
 DTSTART;VALUE=DATE:20260601
 DTEND;VALUE=DATE:20260602
 SUMMARY:🍽 Beef Chili + Cornbread
 DESCRIPTION:Cook time: 60 min\n\nDouble batch — freeze half\n\nMakes great leftovers. JIFFY cornbread muffins bake in 15 min. Double batch and freeze half the chili.\n\nIngredients:\n• 1.5 lb – 73% Lean / 27% Fat Ground Beef\, 1 lb\n• 2 can – Great Value Light Red Kidney Beans\, 15.5 oz\n• 1 can – Great Value Pinto Beans\, 15.5 oz\n• 1 can – Great Value Crushed Tomatoes with Tomato Puree\, 28 oz\n• 1 can – Great Value Tomato Paste\, 6 oz\n• 2 pkt – Great Value Mild Chili Seasoning Mix\, 1 oz\n• 2 box – "JIFFY" Corn Muffin Mix\, 8.5 oz\n• 0.25 carton – Great Value Large White Eggs\, 18 ct (for cornbread)\n• 0.25 gal – Great Value Whole Vitamin D Milk (for cornbread)\n• 1 bag – Great Value Fiesta Blend Shredded Cheese\, 8 oz\n• 0.5 tub – Great Value Light Sour Cream\, 16 oz
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-06-01-schedprep@plan.py
+DTSTART;VALUE=DATE:20260531
+DTEND;VALUE=DATE:20260601
+SUMMARY:🧊 Defrost ground beef from deep freeze for Monday chili
+DESCRIPTION:Beef Chili + Cornbread is tomorrow
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-06-02-meal@plan.py
