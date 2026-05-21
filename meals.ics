@@ -163,15 +163,8 @@ BEGIN:VEVENT
 UID:2026-05-22-meal@plan.py
 DTSTART;VALUE=DATE:20260522
 DTEND;VALUE=DATE:20260523
-SUMMARY:🍽 Pork Chops + Roasted Potatoes
-DESCRIPTION:Cook time: 45 min\n\nSub instant mashed + corn — defrost tonight\n\nSeason chops with garlic butter seasoning. Roast potatoes and bell peppers together on a sheet pan.\n\nIngredients:\n• 1 pkg – Pork Ribeye Chops Boneless\n• 0.5 bag – Fresh Whole Russet Potatoes\, 5 lb bag\n• 1 bag – Fresh Whole Color Bell Peppers\, 3 Count Bag\n• 0.5 each – Fresh Red Onion\n• 0.5 jar – bettergoods Garlic Butter Flavored Seasoning\, 3 oz
-END:VEVENT
-BEGIN:VEVENT
-UID:2026-05-22-prep@plan.py
-DTSTART;VALUE=DATE:20260521
-DTEND;VALUE=DATE:20260522
-SUMMARY:🧊 Pull pork chops from freezer to fridge to thaw overnight for tomorrow
-DESCRIPTION:Pork Chops + Roasted Potatoes is tomorrow
+SUMMARY:🍽 Frozen Pizza Night
+DESCRIPTION:Cook time: 22 min\n\nFriday staple\n\nKeep 2 in the freezer at all times. Add a bagged salad on the side.\n\nIngredients:\n• 2 pkg – Great Value Rising Crust or Thin Crust Pizza (frozen)\n• 0.5 bag – Great Value Fiesta Blend Shredded Cheese (optional topping)
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-05-23-meal@plan.py
