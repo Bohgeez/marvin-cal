@@ -289,6 +289,13 @@ BEGIN:VEVENT
 UID:2026-06-03-meal@plan.py
 DTSTART;VALUE=DATE:20260603
 DTEND;VALUE=DATE:20260604
+SUMMARY:🍽 Taco Wednesday
+DESCRIPTION:Cook time: 30 min\n\nSides: refried beans / sweet corn\n\nSet up a taco bar — kids love building their own.\n\nIngredients:\n• 1.5 lb – 73% Lean / 27% Fat Ground Beef\, 1 lb\n• 1 pkg – Old El Paso Stand 'N Stuff Taco Shells OR Flour Tortillas\n• 1 pkt – Great Value Mild Chili Seasoning Mix (as taco seasoning)\, 1 oz\n• 1 can – Old El Paso Traditional Canned Refried Beans\, 16 oz\n• 1 bag – Great Value Fiesta Blend Shredded Cheese\, 8 oz\n• 0.5 tub – Great Value Light Sour Cream\, 16 oz\n• 1 each – Fresh Green Bell Pepper\n• 0.5 each – Fresh Red Onion OR Sweet Onion\n• 2 each – Fresh Lime\n• 1 head – Romaine or Iceberg Lettuce\n• 2 each – Fresh Tomatoes
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-06-04-meal@plan.py
+DTSTART;VALUE=DATE:20260604
+DTEND;VALUE=DATE:20260605
 SUMMARY:🍽 Kielbasa + Roasted Potatoes
 DESCRIPTION:Cook time: 30 min\n\nSides: sweet corn\n\nSlice kielbasa into coins\, pan-fry with peppers and onions. Serve over bettergoods roasted potatoes (microwave bag).\n\nIngredients:\n• 1 pkg – Hillshire Farm Polska Kielbasa\, 14 oz\n• 1 bag – bettergoods Oven Roasted Yukon Gold Potatoes with Peppers & Onions\, 20 oz\n• 2 each – Fresh Green Bell Peppers\n• 1 each – Fresh Sweet Onion
 END:VEVENT
