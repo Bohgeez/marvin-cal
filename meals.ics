@@ -202,6 +202,13 @@ SUMMARY:🍽 Memorial Day BBQ
 DESCRIPTION:Cook time: 45 min\n\nSides: corn on the cob / baked beans / potato salad / fruit salad / chips & dip / popsicles\n\nHot dogs + burgers — cornhole + ladder toss + water balloons\n\nKeep it easy — chips and a fruit cup on the side.\n\nIngredients:\n• 2 pkg – Oscar Mayer Classic Wieners\, 10 ct\n• 1 pkg – Ball Park White Hot Dog Buns\, 8 ct\n• 0.25 pkg – Kraft Singles American Cheese\n• 1 as needed – Ketchup & Mustard (pantry)
 END:VEVENT
 BEGIN:VEVENT
+UID:2026-05-25-schedprep@plan.py
+DTSTART;VALUE=DATE:20260524
+DTEND;VALUE=DATE:20260525
+SUMMARY:🍽 Make potato salad today — chill overnight for BBQ tomorrow
+DESCRIPTION:Memorial Day BBQ is tomorrow
+END:VEVENT
+BEGIN:VEVENT
 UID:2026-05-26-meal@plan.py
 DTSTART;VALUE=DATE:20260526
 DTEND;VALUE=DATE:20260527
