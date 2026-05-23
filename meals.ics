@@ -447,9 +447,9 @@ SUMMARY:🍽 Hot Dog Night
 DESCRIPTION:Cook time: 15 min\n\nSides: baked beans / sweet corn\n\nKeep it easy — chips and a fruit cup on the side.\n\nIngredients:\n• 2 pkg – Oscar Mayer Classic Wieners\, 10 ct\n• 1 pkg – Ball Park White Hot Dog Buns\, 8 ct\n• 0.25 pkg – Kraft Singles American Cheese\n• 1 as needed – Ketchup & Mustard (pantry)
 END:VEVENT
 BEGIN:VEVENT
-UID:lowstock-20260521@plan.py
-DTSTART;VALUE=DATE:20260521
-DTEND;VALUE=DATE:20260522
+UID:lowstock-20260523@plan.py
+DTSTART;VALUE=DATE:20260523
+DTEND;VALUE=DATE:20260524
 SUMMARY:🛒 Low Stock — 5 item(s)
 DESCRIPTION:• Chobani Flip Greek Yogurt (S'mores / Cookie Dough — prior stock) — 2.0 cups (min 2 cups) [familyfare]\n• Smucker's Uncrustables Hazelnut — 4.0 each (min 4 each) [walmart]\n• Ground Beef (portioned) — OUT (min 1.5 lb) [walmart]\n• Honeycrisp Apples — OUT (min 1 lb) [familyfare]\n• RAGU Chunky Pasta Sauce — 1.0 jar (min 1 jar) [walmart]
 END:VEVENT
