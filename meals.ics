@@ -317,8 +317,8 @@ BEGIN:VEVENT
 UID:2026-07-05-meal@plan.py
 DTSTART;VALUE=DATE:20260705
 DTEND;VALUE=DATE:20260706
-SUMMARY:🍽 Pasta with Meat Sauce
-DESCRIPTION:Cook time: 35 min\n\nDouble the sauce and freeze half — saves a future dinner. Use any pasta shape.\n\nIngredients:\n• 1.5 lb – 73% Lean / 27% Fat Ground Beef\, 1 lb\n• 1 jar – RAGU Chunky Pasta Sauce\, 24 oz\n• 1 box – bettergoods Bronze Cut Pasta OR Great Value Linguine\, 16 oz\n• 0.25 jar – Great Value Minced Garlic in Water\, 8 oz\n• 1 pkg – Freshness Guaranteed Garlic Bread\, 16 oz
+SUMMARY:🍽 Kielbasa + Dirty Rice
+DESCRIPTION:Cook time: 30 min\n\nIngredients:\n• 1 pkg – Hillshire Farm Polska Kielbasa\n• 1 box – Dirty Rice (mix)\n• 1 each – Fresh Green Bell Peppers
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-07-06-meal@plan.py
