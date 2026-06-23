@@ -247,22 +247,22 @@ BEGIN:VEVENT
 UID:2026-06-26-meal@plan.py
 DTSTART;VALUE=DATE:20260626
 DTEND;VALUE=DATE:20260627
-SUMMARY:🍽 Teriyaki Chicken + Rice
-DESCRIPTION:Cook time: 35 min\n\nUse the Taylor Farms Teriyaki Meal Kit on busy nights — it's all-in-one. From scratch: chicken thighs\, Soy Vay sauce\, rice\, broccoli.\n\nIngredients:\n• 1 kit – Taylor Farms Fresh Teriyaki Vegetable Meal Kit\, 23 oz (easy mode)\n• 2 lb – Tyson Fresh Chicken Leg Quarters 10 lb OR Chicken Breast\n• 0.5 bottle – Soy Vay Island Teriyaki Marinade & Sauce\, 20 oz\n• 0.5 bag – Great Value Long Grain Enriched Rice\, 5 lb\n• 1 bag – Great Value Frozen Broccoli Florets\, 12 oz
-END:VEVENT
-BEGIN:VEVENT
-UID:2026-06-26-prep@plan.py
-DTSTART;VALUE=DATE:20260625
-DTEND;VALUE=DATE:20260626
-SUMMARY:🛒 Marinate chicken in Soy Vay teriyaki overnight for tomorrow
-DESCRIPTION:Teriyaki Chicken + Rice is tomorrow
+SUMMARY:🍽 Frozen Pizza Night
+DESCRIPTION:Cook time: 22 min\n\nKeep 2 in the freezer at all times. Add a bagged salad on the side. Brand notes: MM Rising Crust Four Cheese (cheese night)\, Red Baron preferred for pepperoni (MM pepperoni too salty — confirmed May 22).\n\nIngredients:\n• 2 pkg – Member's Mark Rising Crust Pizza or Red Baron Pepperoni (frozen)\n• 0.5 bag – Great Value Fiesta Blend Shredded Cheese (optional topping)
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-06-27-meal@plan.py
 DTSTART;VALUE=DATE:20260627
 DTEND;VALUE=DATE:20260628
-SUMMARY:🍽 Frozen Pizza Night
-DESCRIPTION:Cook time: 22 min\n\nKeep 2 in the freezer at all times. Add a bagged salad on the side. Brand notes: MM Rising Crust Four Cheese (cheese night)\, Red Baron preferred for pepperoni (MM pepperoni too salty — confirmed May 22).\n\nIngredients:\n• 2 pkg – Member's Mark Rising Crust Pizza or Red Baron Pepperoni (frozen)\n• 0.5 bag – Great Value Fiesta Blend Shredded Cheese (optional topping)
+SUMMARY:🍽 Teriyaki Chicken + Rice
+DESCRIPTION:Cook time: 35 min\n\nUse the Taylor Farms Teriyaki Meal Kit on busy nights — it's all-in-one. From scratch: chicken thighs\, Soy Vay sauce\, rice\, broccoli.\n\nIngredients:\n• 1 kit – Taylor Farms Fresh Teriyaki Vegetable Meal Kit\, 23 oz (easy mode)\n• 2 lb – Tyson Fresh Chicken Leg Quarters 10 lb OR Chicken Breast\n• 0.5 bottle – Soy Vay Island Teriyaki Marinade & Sauce\, 20 oz\n• 0.5 bag – Great Value Long Grain Enriched Rice\, 5 lb\n• 1 bag – Great Value Frozen Broccoli Florets\, 12 oz
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-06-27-prep@plan.py
+DTSTART;VALUE=DATE:20260626
+DTEND;VALUE=DATE:20260627
+SUMMARY:🛒 Marinate chicken in Soy Vay teriyaki overnight for tomorrow
+DESCRIPTION:Teriyaki Chicken + Rice is tomorrow
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-06-28-meal@plan.py
