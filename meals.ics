@@ -352,15 +352,15 @@ BEGIN:VEVENT
 UID:2026-07-10-meal@plan.py
 DTSTART;VALUE=DATE:20260710
 DTEND;VALUE=DATE:20260711
-SUMMARY:🍽 Grilled Brats + Knorr Noodles
-DESCRIPTION:Cook time: 25 min\n\nIngredients:\n• 1 pkg – Johnsonville Original Brats\n• 5 each – Lakeland Hot Dog Buns\n• 2 packet – Knorr Pasta Sides\n• 0.125 gallon – Great Value Whole Vitamin D Milk
+SUMMARY:🍽 Frozen Pizza Night
+DESCRIPTION:Cook time: 22 min\n\nKeep 2 in the freezer at all times. Add a bagged salad on the side. Brand notes: MM Rising Crust Four Cheese (cheese night)\, Red Baron preferred for pepperoni (MM pepperoni too salty — confirmed May 22).\n\nIngredients:\n• 2 pkg – Member's Mark Rising Crust Pizza or Red Baron Pepperoni (frozen)\n• 0.5 bag – Great Value Fiesta Blend Shredded Cheese (optional topping)
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-07-11-meal@plan.py
 DTSTART;VALUE=DATE:20260711
 DTEND;VALUE=DATE:20260712
-SUMMARY:🍽 Frozen Pizza Night
-DESCRIPTION:Cook time: 22 min\n\nKeep 2 in the freezer at all times. Add a bagged salad on the side. Brand notes: MM Rising Crust Four Cheese (cheese night)\, Red Baron preferred for pepperoni (MM pepperoni too salty — confirmed May 22).\n\nIngredients:\n• 2 pkg – Member's Mark Rising Crust Pizza or Red Baron Pepperoni (frozen)\n• 0.5 bag – Great Value Fiesta Blend Shredded Cheese (optional topping)
+SUMMARY:🍽 Grilled Brats + Knorr Noodles
+DESCRIPTION:Cook time: 25 min\n\nIngredients:\n• 1 pkg – Johnsonville Original Brats\n• 5 each – Lakeland Hot Dog Buns\n• 2 packet – Knorr Pasta Sides\n• 0.125 gallon – Great Value Whole Vitamin D Milk
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-07-12-meal@plan.py
