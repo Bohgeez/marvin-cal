@@ -296,15 +296,15 @@ BEGIN:VEVENT
 UID:2026-07-02-meal@plan.py
 DTSTART;VALUE=DATE:20260702
 DTEND;VALUE=DATE:20260703
-SUMMARY:🍽 Kielbasa + Dirty Rice
-DESCRIPTION:Cook time: 30 min\n\nIngredients:\n• 1 pkg – Hillshire Farm Polska Kielbasa\n• 1 box – Dirty Rice (mix)\n• 1 each – Fresh Green Bell Peppers
+SUMMARY:🍽 Smash Burgers
+DESCRIPTION:Cook time: 30 min\n\nIngredients:\n• 1.5 lb – Member's Mark 80/20 Ground Beef\n• 5 each – Sara Lee Restaurant Style White Hamburger Buns\n• 0.5 lb – Russet Potatoes\n• 0.1 bottle – Great Value Tomato Ketchup
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-07-03-meal@plan.py
 DTSTART;VALUE=DATE:20260703
 DTEND;VALUE=DATE:20260704
-SUMMARY:🍽 Smash Burgers
-DESCRIPTION:Cook time: 30 min\n\nIngredients:\n• 1.5 lb – Member's Mark 80/20 Ground Beef\n• 5 each – Sara Lee Restaurant Style White Hamburger Buns\n• 0.5 lb – Russet Potatoes\n• 0.1 bottle – Great Value Tomato Ketchup
+SUMMARY:🍽 Frozen Pizza Night
+DESCRIPTION:Cook time: 22 min\n\nKeep 2 in the freezer at all times. Add a bagged salad on the side. Brand notes: MM Rising Crust Four Cheese (cheese night)\, Red Baron preferred for pepperoni (MM pepperoni too salty — confirmed May 22).\n\nIngredients:\n• 2 pkg – Member's Mark Rising Crust Pizza or Red Baron Pepperoni (frozen)\n• 0.5 bag – Great Value Fiesta Blend Shredded Cheese (optional topping)
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-07-04-meal@plan.py
