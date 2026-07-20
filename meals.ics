@@ -16,15 +16,8 @@ BEGIN:VEVENT
 UID:2026-07-20-meal@plan.py
 DTSTART;VALUE=DATE:20260720
 DTEND;VALUE=DATE:20260721
-SUMMARY:🍽 Sausage & Potato Soup
-DESCRIPTION:Cook time: 50 min\n\nSides: garlic bread\n\nZuppa Toscana style. Add a bag of fresh spinach or kale if you want to sneak in greens.\n\nIngredients:\n• 1 pkg – Johnsonville Mild Italian Ground Pork Sausage\, 1 lb\n• 1 bag – Fresh Whole Russet Potatoes\, 5 lb bag\n• 2 carton – Swanson Beef Broth\, 32 oz\n• 0.5 bunch – Fresh Whole Celery Stalk\n• 1 each – Fresh Sweet Onion\n• 0.25 jar – Great Value Minced Garlic in Water\, 8 oz\n• 0.5 gal – Great Value Whole Vitamin D Milk (for creaminess)\n• 1 loaf – Great Value White Round Top Bread Loaf
-END:VEVENT
-BEGIN:VEVENT
-UID:2026-07-20-prep@plan.py
-DTSTART;VALUE=DATE:20260719
-DTEND;VALUE=DATE:20260720
-SUMMARY:🧊 Pull kielbasa from freezer to fridge to thaw for tomorrow's soup
-DESCRIPTION:Sausage & Potato Soup is tomorrow
+SUMMARY:🍽 Pasta with RAGU
+DESCRIPTION:Cook time: 20 min\n\nSides: garlic bread\n\nNo meat — swapped from Sausage & Potato Soup (no Italian sausage on hand). Add garlic bread if still have a loaf.\n\nDouble the sauce and freeze half — saves a future dinner. Use any pasta shape.\n\nIngredients:\n• 1.5 lb – 73% Lean / 27% Fat Ground Beef\, 1 lb\n• 1 jar – RAGU Chunky Pasta Sauce\, 24 oz\n• 1 box – bettergoods Bronze Cut Pasta OR Great Value Linguine\, 16 oz\n• 0.25 jar – Great Value Minced Garlic in Water\, 8 oz\n• 1 pkg – Freshness Guaranteed Garlic Bread\, 16 oz
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-07-21-meal@plan.py
@@ -261,7 +254,7 @@ BEGIN:VEVENT
 UID:lowstock-20260720@plan.py
 DTSTART;VALUE=DATE:20260720
 DTEND;VALUE=DATE:20260721
-SUMMARY:🛒 Low Stock — 9 item(s)
-DESCRIPTION:• Danimals Strawberry & Banana Smoothie Bottles — 4.0 bottles (min 6 bottles) [walmart]\n• Great Value Frozen Broccoli Florets — 0.5 bags (min 2 bags) [walmart]\n• Smucker's Uncrustables Hazelnut (prior) — 2.0 each (min 4 each) [walmart]\n• Great Value Cinnamon French Toast Sticks — 0.25 box (min 0.5 box) [walmart]\n• Honeycrisp Apples — OUT (min 1 lb) [sams]\n• Fresh Roma Tomatoes — 2.0 each (min 4 each) [walmart]\n• Great Value Minced Garlic in Water — 0.5 jar (min 0.5 jar) [walmart]\n• Kingsford Original Charcoal Briquettes — OUT (min 1 bag) [walmart]\n• Knorr Pasta Sides Four Cheese Fusilli — 1.0 pkg (min 2 pkg) [sams]
+SUMMARY:🛒 Low Stock — 13 item(s)
+DESCRIPTION:• Great Value Whole Vitamin D Milk — OUT (min 0.5 gallon) [walmart]\n• Danimals Strawberry & Banana Smoothie Bottles — 4.0 bottles (min 6 bottles) [walmart]\n• Great Value Frozen Broccoli Florets — OUT (min 2 bags) [walmart]\n• Smucker's Uncrustables Hazelnut (prior) — OUT (min 4 each) [walmart]\n• Great Value Cinnamon French Toast Sticks — OUT (min 0.5 box) [walmart]\n• Member's Mark 80/20 Ground Beef — 0.5 lb (min 3 lb) [sams]\n• Honeycrisp Apples — OUT (min 1 lb) [sams]\n• Fresh Roma Tomatoes — OUT (min 4 each) [walmart]\n• Fresh Bell Peppers (multi-color) — 2.0 each (min 2 each) [walmart]\n• Great Value Minced Garlic in Water — 0.5 jar (min 0.5 jar) [walmart]\n• Kingsford Original Charcoal Briquettes — OUT (min 1 bag) [walmart]\n• Knorr Pasta Sides Four Cheese Fusilli — 1.0 pkg (min 2 pkg) [sams]\n• Member's Mark Rising Crust Four Cheese Pizza — OUT (min 2 pkg) [sams]
 END:VEVENT
 END:VCALENDAR
