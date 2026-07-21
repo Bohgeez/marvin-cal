@@ -30,29 +30,29 @@ BEGIN:VEVENT
 UID:2026-07-22-meal@plan.py
 DTSTART;VALUE=DATE:20260722
 DTEND;VALUE=DATE:20260723
-SUMMARY:🍽 Pasta with Meat Sauce
-DESCRIPTION:Cook time: 35 min\n\nSides: garlic bread\n\nDouble the sauce and freeze half — saves a future dinner. Use any pasta shape.\n\nIngredients:\n• 1.5 lb – 73% Lean / 27% Fat Ground Beef\, 1 lb\n• 1 jar – RAGU Chunky Pasta Sauce\, 24 oz\n• 1 box – bettergoods Bronze Cut Pasta OR Great Value Linguine\, 16 oz\n• 0.25 jar – Great Value Minced Garlic in Water\, 8 oz\n• 1 pkg – Freshness Guaranteed Garlic Bread\, 16 oz
+SUMMARY:🍽 Taco Wednesday — Ground Beef
+DESCRIPTION:Cook time: 30 min\n\nSides: refried beans / sweet corn\n\nSet up a taco bar — kids love building their own.\n\nIngredients:\n• 1.5 lb – 73% Lean / 27% Fat Ground Beef\, 1 lb\n• 1 pkg – Old El Paso Stand 'N Stuff Taco Shells OR Flour Tortillas\n• 1 pkt – Great Value Mild Chili Seasoning Mix (as taco seasoning)\, 1 oz\n• 1 can – Old El Paso Traditional Canned Refried Beans\, 16 oz\n• 1 bag – Great Value Fiesta Blend Shredded Cheese\, 8 oz\n• 0.5 tub – Great Value Light Sour Cream\, 16 oz\n• 1 each – Fresh Green Bell Pepper\n• 0.5 each – Fresh Red Onion OR Sweet Onion\n• 2 each – Fresh Lime\n• 1 head – Romaine or Iceberg Lettuce\n• 2 each – Fresh Roma Tomatoes\n• 1 can – Ro-Tel Diced Tomatoes & Green Chilies
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-07-23-meal@plan.py
 DTSTART;VALUE=DATE:20260723
 DTEND;VALUE=DATE:20260724
-SUMMARY:🍽 Taco Wednesday — Ground Beef
-DESCRIPTION:Cook time: 30 min\n\nSides: refried beans / sweet corn\n\nSet up a taco bar — kids love building their own.\n\nIngredients:\n• 1.5 lb – 73% Lean / 27% Fat Ground Beef\, 1 lb\n• 1 pkg – Old El Paso Stand 'N Stuff Taco Shells OR Flour Tortillas\n• 1 pkt – Great Value Mild Chili Seasoning Mix (as taco seasoning)\, 1 oz\n• 1 can – Old El Paso Traditional Canned Refried Beans\, 16 oz\n• 1 bag – Great Value Fiesta Blend Shredded Cheese\, 8 oz\n• 0.5 tub – Great Value Light Sour Cream\, 16 oz\n• 1 each – Fresh Green Bell Pepper\n• 0.5 each – Fresh Red Onion OR Sweet Onion\n• 2 each – Fresh Lime\n• 1 head – Romaine or Iceberg Lettuce\n• 2 each – Fresh Roma Tomatoes\n• 1 can – Ro-Tel Diced Tomatoes & Green Chilies
+SUMMARY:🍽 Pasta with Meat Sauce
+DESCRIPTION:Cook time: 35 min\n\nSides: garlic bread\n\nDouble the sauce and freeze half — saves a future dinner. Use any pasta shape.\n\nIngredients:\n• 1.5 lb – 73% Lean / 27% Fat Ground Beef\, 1 lb\n• 1 jar – RAGU Chunky Pasta Sauce\, 24 oz\n• 1 box – bettergoods Bronze Cut Pasta OR Great Value Linguine\, 16 oz\n• 0.25 jar – Great Value Minced Garlic in Water\, 8 oz\n• 1 pkg – Freshness Guaranteed Garlic Bread\, 16 oz
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-07-24-meal@plan.py
 DTSTART;VALUE=DATE:20260724
 DTEND;VALUE=DATE:20260725
-SUMMARY:🍽 Kielbasa + Roasted Potatoes
-DESCRIPTION:Cook time: 30 min\n\nSides: sweet corn\n\nSlice kielbasa into coins\, pan-fry with peppers and onions. Serve over bettergoods roasted potatoes (microwave bag).\n\nIngredients:\n• 1 pkg – Hillshire Farm Polska Kielbasa\, 14 oz\n• 1 bag – bettergoods Oven Roasted Yukon Gold Potatoes with Peppers & Onions\, 20 oz\n• 2 each – Fresh Green Bell Peppers\n• 1 each – Fresh Sweet Onion
+SUMMARY:🍽 Frozen Pizza Night
+DESCRIPTION:Cook time: 22 min\n\nFriday pizza\n\nKeep 2 in the freezer at all times. Add a bagged salad on the side. Brand notes: MM Rising Crust Four Cheese (cheese night)\, Red Baron preferred for pepperoni (MM pepperoni too salty — confirmed May 22).\n\nIngredients:\n• 2 pkg – Member's Mark Rising Crust Pizza or Red Baron Pepperoni (frozen)\n• 0.5 bag – Great Value Fiesta Blend Shredded Cheese (optional topping)
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-07-25-meal@plan.py
 DTSTART;VALUE=DATE:20260725
 DTEND;VALUE=DATE:20260726
-SUMMARY:🍽 Frozen Pizza Night
-DESCRIPTION:Cook time: 22 min\n\nFriday pizza\n\nKeep 2 in the freezer at all times. Add a bagged salad on the side. Brand notes: MM Rising Crust Four Cheese (cheese night)\, Red Baron preferred for pepperoni (MM pepperoni too salty — confirmed May 22).\n\nIngredients:\n• 2 pkg – Member's Mark Rising Crust Pizza or Red Baron Pepperoni (frozen)\n• 0.5 bag – Great Value Fiesta Blend Shredded Cheese (optional topping)
+SUMMARY:🍽 Kielbasa + Roasted Potatoes
+DESCRIPTION:Cook time: 30 min\n\nSides: sweet corn\n\nSlice kielbasa into coins\, pan-fry with peppers and onions. Serve over bettergoods roasted potatoes (microwave bag).\n\nIngredients:\n• 1 pkg – Hillshire Farm Polska Kielbasa\, 14 oz\n• 1 bag – bettergoods Oven Roasted Yukon Gold Potatoes with Peppers & Onions\, 20 oz\n• 2 each – Fresh Green Bell Peppers\n• 1 each – Fresh Sweet Onion
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-07-26-meal@plan.py
@@ -65,7 +65,7 @@ BEGIN:VEVENT
 UID:2026-07-26-schedprep@plan.py
 DTSTART;VALUE=DATE:20260725
 DTEND;VALUE=DATE:20260726
-SUMMARY:🧊 Defrost chicken drumsticks from freezer for Saturday
+SUMMARY:🧊 Defrost chicken drumsticks from freezer for Sunday
 DESCRIPTION:BBQ Chicken Drumsticks + Rice is tomorrow
 END:VEVENT
 BEGIN:VEVENT
@@ -73,7 +73,7 @@ UID:2026-07-27-meal@plan.py
 DTSTART;VALUE=DATE:20260727
 DTEND;VALUE=DATE:20260728
 SUMMARY:🍽 Teriyaki Chicken + Rice
-DESCRIPTION:Cook time: 35 min\n\nSides: frozen broccoli\n\nMarinate chicken Saturday night in Soy Vay\n\nUse the Taylor Farms Teriyaki Meal Kit on busy nights — it's all-in-one. From scratch: chicken thighs\, Soy Vay sauce\, rice\, broccoli.\n\nIngredients:\n• 1 kit – Taylor Farms Fresh Teriyaki Vegetable Meal Kit\, 23 oz (easy mode)\n• 2 lb – Tyson Fresh Chicken Leg Quarters 10 lb OR Chicken Breast\n• 0.5 bottle – Soy Vay Island Teriyaki Marinade & Sauce\, 20 oz\n• 0.5 bag – Great Value Long Grain Enriched Rice\, 5 lb\n• 1 bag – Great Value Frozen Broccoli Florets\, 12 oz
+DESCRIPTION:Cook time: 35 min\n\nSides: frozen broccoli\n\nMarinate chicken Sunday night in Soy Vay\n\nUse the Taylor Farms Teriyaki Meal Kit on busy nights — it's all-in-one. From scratch: chicken thighs\, Soy Vay sauce\, rice\, broccoli.\n\nIngredients:\n• 1 kit – Taylor Farms Fresh Teriyaki Vegetable Meal Kit\, 23 oz (easy mode)\n• 2 lb – Tyson Fresh Chicken Leg Quarters 10 lb OR Chicken Breast\n• 0.5 bottle – Soy Vay Island Teriyaki Marinade & Sauce\, 20 oz\n• 0.5 bag – Great Value Long Grain Enriched Rice\, 5 lb\n• 1 bag – Great Value Frozen Broccoli Florets\, 12 oz
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-07-27-prep@plan.py
@@ -93,29 +93,29 @@ BEGIN:VEVENT
 UID:2026-07-29-meal@plan.py
 DTSTART;VALUE=DATE:20260729
 DTEND;VALUE=DATE:20260730
-SUMMARY:🍽 Hot Dog Night
-DESCRIPTION:Cook time: 15 min\n\nSides: baked beans / sweet corn\n\nKeep it easy — chips and a fruit cup on the side.\n\nIngredients:\n• 2 pkg – Oscar Mayer Classic Wieners\, 10 ct\n• 1 pkg – Ball Park White Hot Dog Buns\, 8 ct\n• 0.25 pkg – Kraft Singles American Cheese\n• 1 as needed – Ketchup & Mustard (pantry)
+SUMMARY:🍽 Taco Wednesday — Chicken Tacos
+DESCRIPTION:Cook time: 30 min\n\nSides: refried beans / sweet corn\n\nSet up a taco bar — kids love building their own.\n\nIngredients:\n• 1.5 lb – 73% Lean / 27% Fat Ground Beef\, 1 lb\n• 1 pkg – Old El Paso Stand 'N Stuff Taco Shells OR Flour Tortillas\n• 1 pkt – Great Value Mild Chili Seasoning Mix (as taco seasoning)\, 1 oz\n• 1 can – Old El Paso Traditional Canned Refried Beans\, 16 oz\n• 1 bag – Great Value Fiesta Blend Shredded Cheese\, 8 oz\n• 0.5 tub – Great Value Light Sour Cream\, 16 oz\n• 1 each – Fresh Green Bell Pepper\n• 0.5 each – Fresh Red Onion OR Sweet Onion\n• 2 each – Fresh Lime\n• 1 head – Romaine or Iceberg Lettuce\n• 2 each – Fresh Roma Tomatoes\n• 1 can – Ro-Tel Diced Tomatoes & Green Chilies
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-07-30-meal@plan.py
 DTSTART;VALUE=DATE:20260730
 DTEND;VALUE=DATE:20260731
-SUMMARY:🍽 Taco Wednesday — Chicken Tacos
-DESCRIPTION:Cook time: 30 min\n\nSides: refried beans / sweet corn\n\nSet up a taco bar — kids love building their own.\n\nIngredients:\n• 1.5 lb – 73% Lean / 27% Fat Ground Beef\, 1 lb\n• 1 pkg – Old El Paso Stand 'N Stuff Taco Shells OR Flour Tortillas\n• 1 pkt – Great Value Mild Chili Seasoning Mix (as taco seasoning)\, 1 oz\n• 1 can – Old El Paso Traditional Canned Refried Beans\, 16 oz\n• 1 bag – Great Value Fiesta Blend Shredded Cheese\, 8 oz\n• 0.5 tub – Great Value Light Sour Cream\, 16 oz\n• 1 each – Fresh Green Bell Pepper\n• 0.5 each – Fresh Red Onion OR Sweet Onion\n• 2 each – Fresh Lime\n• 1 head – Romaine or Iceberg Lettuce\n• 2 each – Fresh Roma Tomatoes\n• 1 can – Ro-Tel Diced Tomatoes & Green Chilies
+SUMMARY:🍽 Hot Dog Night
+DESCRIPTION:Cook time: 15 min\n\nSides: baked beans / sweet corn\n\nKeep it easy — chips and a fruit cup on the side.\n\nIngredients:\n• 2 pkg – Oscar Mayer Classic Wieners\, 10 ct\n• 1 pkg – Ball Park White Hot Dog Buns\, 8 ct\n• 0.25 pkg – Kraft Singles American Cheese\n• 1 as needed – Ketchup & Mustard (pantry)
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-07-31-meal@plan.py
 DTSTART;VALUE=DATE:20260731
 DTEND;VALUE=DATE:20260801
-SUMMARY:🍽 Sloppy Joes
-DESCRIPTION:Cook time: 25 min\n\nSides: Knorr noodles / sweet corn\n\nManwich + ground beef. Done in 20 minutes. Serve with Del Monte corn.\n\nIngredients:\n• 1 lb – 73% Lean / 27% Fat Ground Beef\, 1 lb\n• 1 can – Manwich Original Sloppy Joe Sauce\, 15 oz\n• 1 pkg – Ball Park White Hot Dog Buns OR Burger Buns\, 8 ct\n• 0.5 pack – Del Monte Golden Sweet Whole Kernel Corn\, 15.25 oz (4-pack)
+SUMMARY:🍽 Frozen Pizza Night
+DESCRIPTION:Cook time: 22 min\n\nFriday pizza\n\nKeep 2 in the freezer at all times. Add a bagged salad on the side. Brand notes: MM Rising Crust Four Cheese (cheese night)\, Red Baron preferred for pepperoni (MM pepperoni too salty — confirmed May 22).\n\nIngredients:\n• 2 pkg – Member's Mark Rising Crust Pizza or Red Baron Pepperoni (frozen)\n• 0.5 bag – Great Value Fiesta Blend Shredded Cheese (optional topping)
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-08-01-meal@plan.py
 DTSTART;VALUE=DATE:20260801
 DTEND;VALUE=DATE:20260802
-SUMMARY:🍽 Frozen Pizza Night
-DESCRIPTION:Cook time: 22 min\n\nFriday pizza\n\nKeep 2 in the freezer at all times. Add a bagged salad on the side. Brand notes: MM Rising Crust Four Cheese (cheese night)\, Red Baron preferred for pepperoni (MM pepperoni too salty — confirmed May 22).\n\nIngredients:\n• 2 pkg – Member's Mark Rising Crust Pizza or Red Baron Pepperoni (frozen)\n• 0.5 bag – Great Value Fiesta Blend Shredded Cheese (optional topping)
+SUMMARY:🍽 Sloppy Joes
+DESCRIPTION:Cook time: 25 min\n\nSides: Knorr noodles / sweet corn\n\nManwich + ground beef. Done in 20 minutes. Serve with Del Monte corn.\n\nIngredients:\n• 1 lb – 73% Lean / 27% Fat Ground Beef\, 1 lb\n• 1 can – Manwich Original Sloppy Joe Sauce\, 15 oz\n• 1 pkg – Ball Park White Hot Dog Buns OR Burger Buns\, 8 ct\n• 0.5 pack – Del Monte Golden Sweet Whole Kernel Corn\, 15.25 oz (4-pack)
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-08-02-meal@plan.py
@@ -135,7 +135,7 @@ BEGIN:VEVENT
 UID:2026-08-03-schedprep@plan.py
 DTSTART;VALUE=DATE:20260802
 DTEND;VALUE=DATE:20260803
-SUMMARY:🧊 Defrost chicken wings from freezer Saturday night
+SUMMARY:🧊 Defrost chicken wings from freezer Sunday night
 DESCRIPTION:Chicken Wings Night is tomorrow
 END:VEVENT
 BEGIN:VEVENT
@@ -149,43 +149,43 @@ BEGIN:VEVENT
 UID:2026-08-05-meal@plan.py
 DTSTART;VALUE=DATE:20260805
 DTEND;VALUE=DATE:20260806
-SUMMARY:🍽 Pasta with Meat Sauce
-DESCRIPTION:Cook time: 35 min\n\nSides: garlic bread\n\nDouble the sauce and freeze half — saves a future dinner. Use any pasta shape.\n\nIngredients:\n• 1.5 lb – 73% Lean / 27% Fat Ground Beef\, 1 lb\n• 1 jar – RAGU Chunky Pasta Sauce\, 24 oz\n• 1 box – bettergoods Bronze Cut Pasta OR Great Value Linguine\, 16 oz\n• 0.25 jar – Great Value Minced Garlic in Water\, 8 oz\n• 1 pkg – Freshness Guaranteed Garlic Bread\, 16 oz
+SUMMARY:🍽 Taco Wednesday — Ground Pork
+DESCRIPTION:Cook time: 30 min\n\nSides: refried beans / sweet corn\n\nSet up a taco bar — kids love building their own.\n\nIngredients:\n• 1.5 lb – 73% Lean / 27% Fat Ground Beef\, 1 lb\n• 1 pkg – Old El Paso Stand 'N Stuff Taco Shells OR Flour Tortillas\n• 1 pkt – Great Value Mild Chili Seasoning Mix (as taco seasoning)\, 1 oz\n• 1 can – Old El Paso Traditional Canned Refried Beans\, 16 oz\n• 1 bag – Great Value Fiesta Blend Shredded Cheese\, 8 oz\n• 0.5 tub – Great Value Light Sour Cream\, 16 oz\n• 1 each – Fresh Green Bell Pepper\n• 0.5 each – Fresh Red Onion OR Sweet Onion\n• 2 each – Fresh Lime\n• 1 head – Romaine or Iceberg Lettuce\n• 2 each – Fresh Roma Tomatoes\n• 1 can – Ro-Tel Diced Tomatoes & Green Chilies
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-08-06-meal@plan.py
 DTSTART;VALUE=DATE:20260806
 DTEND;VALUE=DATE:20260807
-SUMMARY:🍽 Taco Wednesday — Ground Pork
-DESCRIPTION:Cook time: 30 min\n\nSides: refried beans / sweet corn\n\nIngredients:\n• 1.5 lb – Ground Pork\n• 1 pkg – Old El Paso Stand 'N Stuff Bold Nacho Cheese Taco Shells\n• 1 packet – McCormick Chili Seasoning Mix\n• 1 can – Rosarita Traditional Refried Beans\n• 1 bag – Great Value Colby Jack Shredded Cheese\n• 0.25 tub – Daisy Sour Cream\n• 2 each – Fresh Roma Tomatoes\n• 2 each – Fresh Limes\n• 0.5 bag – Fresh Green Cilantro\n• 1 can – Ro-Tel Diced Tomatoes & Green Chilies
+SUMMARY:🍽 Pasta with Meat Sauce
+DESCRIPTION:Cook time: 35 min\n\nSides: garlic bread\n\nDouble the sauce and freeze half — saves a future dinner. Use any pasta shape.\n\nIngredients:\n• 1.5 lb – 73% Lean / 27% Fat Ground Beef\, 1 lb\n• 1 jar – RAGU Chunky Pasta Sauce\, 24 oz\n• 1 box – bettergoods Bronze Cut Pasta OR Great Value Linguine\, 16 oz\n• 0.25 jar – Great Value Minced Garlic in Water\, 8 oz\n• 1 pkg – Freshness Guaranteed Garlic Bread\, 16 oz
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-08-07-meal@plan.py
 DTSTART;VALUE=DATE:20260807
 DTEND;VALUE=DATE:20260808
-SUMMARY:🍽 Pork Chops + Roasted Potatoes
-DESCRIPTION:Cook time: 45 min\n\nSeason chops with garlic butter seasoning. Roast potatoes and bell peppers together on a sheet pan.\n\nIngredients:\n• 1 pkg – Pork Ribeye Chops Boneless\n• 0.5 bag – Fresh Whole Russet Potatoes\, 5 lb bag\n• 1 bag – Fresh Whole Color Bell Peppers\, 3 Count Bag\n• 0.5 each – Fresh Red Onion\n• 0.5 jar – bettergoods Garlic Butter Flavored Seasoning\, 3 oz
-END:VEVENT
-BEGIN:VEVENT
-UID:2026-08-07-prep@plan.py
-DTSTART;VALUE=DATE:20260806
-DTEND;VALUE=DATE:20260807
-SUMMARY:🧊 Pull pork chops from freezer to fridge to thaw overnight for tomorrow
-DESCRIPTION:Pork Chops + Roasted Potatoes is tomorrow
-END:VEVENT
-BEGIN:VEVENT
-UID:2026-08-07-schedprep@plan.py
-DTSTART;VALUE=DATE:20260806
-DTEND;VALUE=DATE:20260807
-SUMMARY:🧊 Defrost pork chops Wednesday night for Thursday
-DESCRIPTION:Pork Chops + Roasted Potatoes is tomorrow
+SUMMARY:🍽 Frozen Pizza Night
+DESCRIPTION:Cook time: 22 min\n\nFriday pizza\n\nKeep 2 in the freezer at all times. Add a bagged salad on the side. Brand notes: MM Rising Crust Four Cheese (cheese night)\, Red Baron preferred for pepperoni (MM pepperoni too salty — confirmed May 22).\n\nIngredients:\n• 2 pkg – Member's Mark Rising Crust Pizza or Red Baron Pepperoni (frozen)\n• 0.5 bag – Great Value Fiesta Blend Shredded Cheese (optional topping)
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-08-08-meal@plan.py
 DTSTART;VALUE=DATE:20260808
 DTEND;VALUE=DATE:20260809
-SUMMARY:🍽 Frozen Pizza Night
-DESCRIPTION:Cook time: 22 min\n\nFriday pizza\n\nKeep 2 in the freezer at all times. Add a bagged salad on the side. Brand notes: MM Rising Crust Four Cheese (cheese night)\, Red Baron preferred for pepperoni (MM pepperoni too salty — confirmed May 22).\n\nIngredients:\n• 2 pkg – Member's Mark Rising Crust Pizza or Red Baron Pepperoni (frozen)\n• 0.5 bag – Great Value Fiesta Blend Shredded Cheese (optional topping)
+SUMMARY:🍽 Pork Chops + Roasted Potatoes
+DESCRIPTION:Cook time: 45 min\n\nSeason chops with garlic butter seasoning. Roast potatoes and bell peppers together on a sheet pan.\n\nIngredients:\n• 1 pkg – Pork Ribeye Chops Boneless\n• 0.5 bag – Fresh Whole Russet Potatoes\, 5 lb bag\n• 1 bag – Fresh Whole Color Bell Peppers\, 3 Count Bag\n• 0.5 each – Fresh Red Onion\n• 0.5 jar – bettergoods Garlic Butter Flavored Seasoning\, 3 oz
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-08-08-prep@plan.py
+DTSTART;VALUE=DATE:20260807
+DTEND;VALUE=DATE:20260808
+SUMMARY:🧊 Pull pork chops from freezer to fridge to thaw overnight for tomorrow
+DESCRIPTION:Pork Chops + Roasted Potatoes is tomorrow
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-08-08-schedprep@plan.py
+DTSTART;VALUE=DATE:20260807
+DTEND;VALUE=DATE:20260808
+SUMMARY:🧊 Defrost pork chops Friday night for Saturday
+DESCRIPTION:Pork Chops + Roasted Potatoes is tomorrow
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-08-09-meal@plan.py
@@ -205,7 +205,7 @@ BEGIN:VEVENT
 UID:2026-08-10-schedprep@plan.py
 DTSTART;VALUE=DATE:20260809
 DTEND;VALUE=DATE:20260810
-SUMMARY:🧊 Defrost ground beef from freezer Saturday for Sunday chili
+SUMMARY:🧊 Defrost ground beef from freezer Sunday for Monday chili
 DESCRIPTION:Beef Chili + Cornbread is tomorrow
 END:VEVENT
 BEGIN:VEVENT
@@ -219,29 +219,29 @@ BEGIN:VEVENT
 UID:2026-08-12-meal@plan.py
 DTSTART;VALUE=DATE:20260812
 DTEND;VALUE=DATE:20260813
-SUMMARY:🍽 Hot Dog Night
-DESCRIPTION:Cook time: 15 min\n\nSides: baked beans / sweet corn\n\nKeep it easy — chips and a fruit cup on the side.\n\nIngredients:\n• 2 pkg – Oscar Mayer Classic Wieners\, 10 ct\n• 1 pkg – Ball Park White Hot Dog Buns\, 8 ct\n• 0.25 pkg – Kraft Singles American Cheese\n• 1 as needed – Ketchup & Mustard (pantry)
+SUMMARY:🍽 Taco Wednesday — Carnitas
+DESCRIPTION:Cook time: 240 min\n\nSides: refried beans / sweet corn\n\nStart pork shoulder in slow cooker morning of\n\nSlow cook pork shoulder all day. Broil briefly for crispy edges.\n\nIngredients:\n• 3 lb – Pork Shoulder\n• 1 pkg – Old El Paso Stand 'N Stuff Bold Nacho Cheese Taco Shells\n• 1 can – Rosarita Traditional Refried Beans\n• 1 packet – McCormick Chili Seasoning Mix\n• 2 each – Fresh Limes\n• 0.5 bag – Fresh Green Cilantro\n• 0.25 bag – Fresh Red Onions\n• 1 bag – Great Value Colby Jack Shredded Cheese
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-08-13-meal@plan.py
 DTSTART;VALUE=DATE:20260813
 DTEND;VALUE=DATE:20260814
-SUMMARY:🍽 Taco Wednesday — Carnitas
-DESCRIPTION:Cook time: 240 min\n\nSides: refried beans / sweet corn\n\nStart pork shoulder in slow cooker morning of\n\nSlow cook pork shoulder all day. Broil briefly for crispy edges.\n\nIngredients:\n• 3 lb – Pork Shoulder\n• 1 pkg – Old El Paso Stand 'N Stuff Bold Nacho Cheese Taco Shells\n• 1 can – Rosarita Traditional Refried Beans\n• 1 packet – McCormick Chili Seasoning Mix\n• 2 each – Fresh Limes\n• 0.5 bag – Fresh Green Cilantro\n• 0.25 bag – Fresh Red Onions\n• 1 bag – Great Value Colby Jack Shredded Cheese
+SUMMARY:🍽 Hot Dog Night
+DESCRIPTION:Cook time: 15 min\n\nSides: baked beans / sweet corn\n\nKeep it easy — chips and a fruit cup on the side.\n\nIngredients:\n• 2 pkg – Oscar Mayer Classic Wieners\, 10 ct\n• 1 pkg – Ball Park White Hot Dog Buns\, 8 ct\n• 0.25 pkg – Kraft Singles American Cheese\n• 1 as needed – Ketchup & Mustard (pantry)
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-08-14-meal@plan.py
 DTSTART;VALUE=DATE:20260814
 DTEND;VALUE=DATE:20260815
-SUMMARY:🍽 Kielbasa + Dirty Rice
-DESCRIPTION:Cook time: 30 min\n\nIngredients:\n• 1 pkg – Hillshire Farm Polska Kielbasa\n• 1 box – Dirty Rice (mix)\n• 1 each – Fresh Green Bell Peppers
+SUMMARY:🍽 Frozen Pizza Night
+DESCRIPTION:Cook time: 22 min\n\nFriday pizza\n\nKeep 2 in the freezer at all times. Add a bagged salad on the side. Brand notes: MM Rising Crust Four Cheese (cheese night)\, Red Baron preferred for pepperoni (MM pepperoni too salty — confirmed May 22).\n\nIngredients:\n• 2 pkg – Member's Mark Rising Crust Pizza or Red Baron Pepperoni (frozen)\n• 0.5 bag – Great Value Fiesta Blend Shredded Cheese (optional topping)
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-08-15-meal@plan.py
 DTSTART;VALUE=DATE:20260815
 DTEND;VALUE=DATE:20260816
-SUMMARY:🍽 Frozen Pizza Night
-DESCRIPTION:Cook time: 22 min\n\nFriday pizza\n\nKeep 2 in the freezer at all times. Add a bagged salad on the side. Brand notes: MM Rising Crust Four Cheese (cheese night)\, Red Baron preferred for pepperoni (MM pepperoni too salty — confirmed May 22).\n\nIngredients:\n• 2 pkg – Member's Mark Rising Crust Pizza or Red Baron Pepperoni (frozen)\n• 0.5 bag – Great Value Fiesta Blend Shredded Cheese (optional topping)
+SUMMARY:🍽 Kielbasa + Dirty Rice
+DESCRIPTION:Cook time: 30 min\n\nIngredients:\n• 1 pkg – Hillshire Farm Polska Kielbasa\n• 1 box – Dirty Rice (mix)\n• 1 each – Fresh Green Bell Peppers
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-08-16-meal@plan.py
