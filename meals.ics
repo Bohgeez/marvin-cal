@@ -251,9 +251,9 @@ SUMMARY:🍽 Chicken Fajitas
 DESCRIPTION:Cook time: 35 min\n\nSides: refried beans\n\nIngredients:\n• 1.5 lb – Chicken Breast\n• 3 each – Fresh Green Bell Peppers\n• 1 each – Fresh Sweet Onion\n• 1 pkg – Flour Tortillas\n• 1 packet – McCormick Chili Seasoning Mix\n• 1 bag – Great Value Colby Jack Shredded Cheese\n• 0.25 tub – Daisy Sour Cream
 END:VEVENT
 BEGIN:VEVENT
-UID:lowstock-20260720@plan.py
-DTSTART;VALUE=DATE:20260720
-DTEND;VALUE=DATE:20260721
+UID:lowstock-20260808@plan.py
+DTSTART;VALUE=DATE:20260808
+DTEND;VALUE=DATE:20260809
 SUMMARY:🛒 Low Stock — 13 item(s)
 DESCRIPTION:• Great Value Whole Vitamin D Milk — OUT (min 0.5 gallon) [walmart]\n• Danimals Strawberry & Banana Smoothie Bottles — 4.0 bottles (min 6 bottles) [walmart]\n• Great Value Frozen Broccoli Florets — OUT (min 2 bags) [walmart]\n• Smucker's Uncrustables Hazelnut (prior) — OUT (min 4 each) [walmart]\n• Great Value Cinnamon French Toast Sticks — OUT (min 0.5 box) [walmart]\n• Member's Mark 80/20 Ground Beef — 0.5 lb (min 3 lb) [sams]\n• Honeycrisp Apples — OUT (min 1 lb) [sams]\n• Fresh Roma Tomatoes — OUT (min 4 each) [walmart]\n• Fresh Bell Peppers (multi-color) — 2.0 each (min 2 each) [walmart]\n• Great Value Minced Garlic in Water — 0.5 jar (min 0.5 jar) [walmart]\n• Kingsford Original Charcoal Briquettes — OUT (min 1 bag) [walmart]\n• Knorr Pasta Sides Four Cheese Fusilli — 1.0 pkg (min 2 pkg) [sams]\n• Member's Mark Rising Crust Four Cheese Pizza — OUT (min 2 pkg) [sams]
 END:VEVENT
