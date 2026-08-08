@@ -251,6 +251,48 @@ SUMMARY:🍽 Chicken Fajitas
 DESCRIPTION:Cook time: 35 min\n\nSides: refried beans\n\nIngredients:\n• 1.5 lb – Chicken Breast\n• 3 each – Fresh Green Bell Peppers\n• 1 each – Fresh Sweet Onion\n• 1 pkg – Flour Tortillas\n• 1 packet – McCormick Chili Seasoning Mix\n• 1 bag – Great Value Colby Jack Shredded Cheese\n• 0.25 tub – Daisy Sour Cream
 END:VEVENT
 BEGIN:VEVENT
+UID:2026-08-17-meal@plan.py
+DTSTART;VALUE=DATE:20260817
+DTEND;VALUE=DATE:20260818
+SUMMARY:🍽 Teriyaki Chicken + Rice
+DESCRIPTION:Cook time: 35 min\n\nSides: frozen broccoli\n\nSoy Vay marinade needs restock — depleted since Jun 27 batch\n\nUse the Taylor Farms Teriyaki Meal Kit on busy nights — it's all-in-one. From scratch: chicken thighs\, Soy Vay sauce\, rice\, broccoli.\n\nIngredients:\n• 1 kit – Taylor Farms Fresh Teriyaki Vegetable Meal Kit\, 23 oz (easy mode)\n• 2 lb – Tyson Fresh Chicken Leg Quarters 10 lb OR Chicken Breast\n• 0.5 bottle – Soy Vay Island Teriyaki Marinade & Sauce\, 20 oz\n• 0.5 bag – Great Value Long Grain Enriched Rice\, 5 lb\n• 1 bag – Great Value Frozen Broccoli Florets\, 12 oz
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-08-17-prep@plan.py
+DTSTART;VALUE=DATE:20260816
+DTEND;VALUE=DATE:20260817
+SUMMARY:🛒 Marinate chicken in Soy Vay teriyaki overnight for tomorrow
+DESCRIPTION:Teriyaki Chicken + Rice is tomorrow
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-08-18-meal@plan.py
+DTSTART;VALUE=DATE:20260818
+DTEND;VALUE=DATE:20260819
+SUMMARY:🍽 Alfredo Pasta with Italian Sausage
+DESCRIPTION:Cook time: 30 min\n\nSides: frozen broccoli / garlic bread\n\nDrop frozen broccoli into the pasta water the last 3 minutes. Toss everything in the alfredo sauce.\n\nIngredients:\n• 1 pkg – Johnsonville Mild Italian Ground Pork Sausage\, 1 lb\n• 1 jar – Bertolli Alfredo Sauce with Basil\, 15 oz\n• 1 box – bettergoods Pasta OR Penne\, 16 oz\n• 1 bag – Great Value Frozen Broccoli Florets\, 12 oz\n• 1 pkg – Freshness Guaranteed Garlic Bread\, 16 oz
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-08-19-meal@plan.py
+DTSTART;VALUE=DATE:20260819
+DTEND;VALUE=DATE:20260820
+SUMMARY:🍽 Taco Wednesday — Ground Beef
+DESCRIPTION:Cook time: 30 min\n\nSides: refried beans / sweet corn\n\nSet up a taco bar — kids love building their own.\n\nIngredients:\n• 1.5 lb – 73% Lean / 27% Fat Ground Beef\, 1 lb\n• 1 pkg – Old El Paso Stand 'N Stuff Taco Shells OR Flour Tortillas\n• 1 pkt – Great Value Mild Chili Seasoning Mix (as taco seasoning)\, 1 oz\n• 1 can – Old El Paso Traditional Canned Refried Beans\, 16 oz\n• 1 bag – Great Value Fiesta Blend Shredded Cheese\, 8 oz\n• 0.5 tub – Great Value Light Sour Cream\, 16 oz\n• 1 each – Fresh Green Bell Pepper\n• 0.5 each – Fresh Red Onion OR Sweet Onion\n• 2 each – Fresh Lime\n• 1 head – Romaine or Iceberg Lettuce\n• 2 each – Fresh Roma Tomatoes\n• 1 can – Ro-Tel Diced Tomatoes & Green Chilies
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-08-20-meal@plan.py
+DTSTART;VALUE=DATE:20260820
+DTEND;VALUE=DATE:20260821
+SUMMARY:🍽 Chicken Wings Night
+DESCRIPTION:Cook time: 35 min\n\nSides: mac and cheese\n\nCovered by buffalo wings bag confirmed in freezer Aug 8 — no purchase needed\n\nbettergoods Garlic Butter Dry Rub wings from frozen. Add a side of mac & cheese or fries.\n\nIngredients:\n• 2 bag – bettergoods Chicken Wings with Garlic Butter Dry Rub\, 22 oz\n• 1 box – Kraft Deluxe Mac and Cheese\, 14 oz (side)
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-08-21-meal@plan.py
+DTSTART;VALUE=DATE:20260821
+DTEND;VALUE=DATE:20260822
+SUMMARY:🍽 Sloppy Joes
+DESCRIPTION:Cook time: 25 min\n\nSides: Del Monte corn\n\nFilled in after Friday stopped defaulting to pizza\n\nManwich + ground beef. Done in 20 minutes. Serve with Del Monte corn.\n\nIngredients:\n• 1 lb – 73% Lean / 27% Fat Ground Beef\, 1 lb\n• 1 can – Manwich Original Sloppy Joe Sauce\, 15 oz\n• 1 pkg – Ball Park White Hot Dog Buns OR Burger Buns\, 8 ct\n• 0.5 pack – Del Monte Golden Sweet Whole Kernel Corn\, 15.25 oz (4-pack)
+END:VEVENT
+BEGIN:VEVENT
 UID:lowstock-20260808@plan.py
 DTSTART;VALUE=DATE:20260808
 DTEND;VALUE=DATE:20260809
