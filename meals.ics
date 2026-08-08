@@ -233,15 +233,15 @@ BEGIN:VEVENT
 UID:2026-08-14-meal@plan.py
 DTSTART;VALUE=DATE:20260814
 DTEND;VALUE=DATE:20260815
-SUMMARY:🍽 Frozen Pizza Night
-DESCRIPTION:Cook time: 22 min\n\nFriday pizza\n\nKeep 2 in the freezer at all times. Add a bagged salad on the side. Brand notes: MM Rising Crust Four Cheese (cheese night)\, Red Baron preferred for pepperoni (MM pepperoni too salty — confirmed May 22).\n\nIngredients:\n• 2 pkg – Member's Mark Rising Crust Pizza or Red Baron Pepperoni (frozen)\n• 0.5 bag – Great Value Fiesta Blend Shredded Cheese (optional topping)
+SUMMARY:🍽 Kielbasa + Dirty Rice
+DESCRIPTION:Cook time: 30 min\n\nMoved here from Sat Aug 15 when pizza night shifted to Saturday\n\nIngredients:\n• 1 pkg – Hillshire Farm Polska Kielbasa\n• 1 box – Dirty Rice (mix)\n• 1 each – Fresh Green Bell Peppers
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-08-15-meal@plan.py
 DTSTART;VALUE=DATE:20260815
 DTEND;VALUE=DATE:20260816
-SUMMARY:🍽 Kielbasa + Dirty Rice
-DESCRIPTION:Cook time: 30 min\n\nIngredients:\n• 1 pkg – Hillshire Farm Polska Kielbasa\n• 1 box – Dirty Rice (mix)\n• 1 each – Fresh Green Bell Peppers
+SUMMARY:🍽 Frozen Pizza Night
+DESCRIPTION:Cook time: 22 min\n\nNew standing pizza night — D&D night\, needs to stay easy\n\nKeep 2 in the freezer at all times. Add a bagged salad on the side. Brand notes: MM Rising Crust Four Cheese (cheese night)\, Red Baron preferred for pepperoni (MM pepperoni too salty — confirmed May 22).\n\nIngredients:\n• 2 pkg – Member's Mark Rising Crust Pizza or Red Baron Pepperoni (frozen)\n• 0.5 bag – Great Value Fiesta Blend Shredded Cheese (optional topping)
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-08-16-meal@plan.py
