@@ -342,6 +342,20 @@ SUMMARY:🍽 Country Fried Steak + Mashed Potatoes
 DESCRIPTION:Cook time: 35 min\n\nRolled forward from Sep 4\, which was reassigned to Frozen Pizza Night under the new standing Friday rule.\n\nBake the Tyson steaks\, heat up Libby's sausage gravy\, mash the potatoes. Pure comfort food.\n\nIngredients:\n• 1 pkg – Tyson Country Fried Steaks with Gravy Mix\, 22.75 oz\n• 1 can – Libby's Country Sausage Gravy\, 15 oz\n• 0.5 bag – Fresh Whole Russet Potatoes\, 5 lb bag\n• 0.25 pkg – Great Value Sweet Cream Salted Butter\n• 0.25 gal – Great Value Whole Vitamin D Milk\n• 1 can – Del Monte Corn OR Green Beans (canned/frozen)
 END:VEVENT
 BEGIN:VEVENT
+UID:2026-09-14-meal@plan.py
+DTSTART;VALUE=DATE:20260914
+DTEND;VALUE=DATE:20260915
+SUMMARY:🍽 Beef Chili + Cornbread
+DESCRIPTION:Cook time: 60 min\n\nSides: Jiffy cornbread\n\nRolled forward from planned Aug 30\, which was swapped same-day for Chicken Legs\, Brown Rice\, and Broccoli Normandy.\n\nMakes great leftovers. JIFFY cornbread muffins bake in 15 min. Double batch and freeze half the chili. Ground flaxseed stirred into the cornbread batter for hidden fiber.\n\nIngredients:\n• 1.5 lb – 73% Lean / 27% Fat Ground Beef\, 1 lb\n• 3 can – Great Value Light Red Kidney Beans\, 15.5 oz\n• 1 can – Great Value Pinto Beans\, 15.5 oz\n• 1 can – Great Value Crushed Tomatoes with Tomato Puree\, 28 oz\n• 1 can – Great Value Tomato Paste\, 6 oz\n• 2 pkt – Great Value Mild Chili Seasoning Mix\, 1 oz\n• 2 box – "JIFFY" Corn Muffin Mix\, 8.5 oz\n• 0.25 carton – Great Value Large White Eggs\, 18 ct (for cornbread)\n• 0.25 gal – Great Value Whole Vitamin D Milk (for cornbread)\n• 1 bag – Great Value Fiesta Blend Shredded Cheese\, 8 oz\n• 0.5 tub – Great Value Light Sour Cream\, 16 oz\n• 0.1 bag – Great Value Ground Flaxseed\, 12 oz
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-09-15-meal@plan.py
+DTSTART;VALUE=DATE:20260915
+DTEND;VALUE=DATE:20260916
+SUMMARY:🍽 Taco Wednesday — Chicken Quesadillas
+DESCRIPTION:Cook time: 25 min\n\nSides: refried beans / sweet corn\n\nRolled forward from Sep 2\, which was taken over by Carnitas Tacos (itself displaced from the Aug 29 Saturday slow-cook slot).\n\nSwitched to high-fiber tortillas.\n\nIngredients:\n• 1.0 lb – Chicken Breast\n• 1 pkg – Mission Carb Balance High Fiber Flour Tortillas\, 8 ct\n• 1 bag – Great Value Colby Jack Shredded Cheese\n• 0.25 tub – Daisy Sour Cream\n• 0.05 bottle – Great Value Tomato Ketchup
+END:VEVENT
+BEGIN:VEVENT
 UID:lowstock-20260830@plan.py
 DTSTART;VALUE=DATE:20260830
 DTEND;VALUE=DATE:20260831
