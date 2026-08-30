@@ -212,8 +212,15 @@ BEGIN:VEVENT
 UID:2026-09-02-meal@plan.py
 DTSTART;VALUE=DATE:20260902
 DTEND;VALUE=DATE:20260903
-SUMMARY:🍽 Taco Wednesday — Chicken Quesadillas
-DESCRIPTION:Cook time: 25 min\n\nSides: refried beans / sweet corn\n\nTaco rotation: chicken slot (last taco night was Aug 19 ground beef).\n\nSwitched to high-fiber tortillas.\n\nIngredients:\n• 1.0 lb – Chicken Breast\n• 1 pkg – Mission Carb Balance High Fiber Flour Tortillas\, 8 ct\n• 1 bag – Great Value Colby Jack Shredded Cheese\n• 0.25 tub – Daisy Sour Cream\n• 0.05 bottle – Great Value Tomato Ketchup
+SUMMARY:🍽 Carnitas Tacos
+DESCRIPTION:Cook time: 240 min\n\nSides: refried beans / sweet corn\n\nMoved here from Aug 29 (Saturday) — that night's dinner became an ad hoc grilled cheese + tomato soup audible instead. Since Carnitas Tacos is itself a taco-night meal\, it now fills the Wed Sep 2 Taco Wednesday slot directly rather than double-booking. Displaced Chicken Quesadillas (originally slotted here) rolled forward to Sep 15. Pork shoulder needs to be on hand/thawed by Wednesday morning — reconfirm purchase timing since this was originally planned as a Saturday pickup.\n\nSlow cook pork shoulder all day. Broil briefly for crispy edges.\n\nIngredients:\n• 3 lb – Pork Shoulder\n• 1 pkg – Old El Paso Stand 'N Stuff Bold Nacho Cheese Taco Shells\n• 1 can – Rosarita Traditional Refried Beans\n• 1 packet – McCormick Chili Seasoning Mix\n• 2 each – Fresh Limes\n• 0.5 bag – Fresh Green Cilantro\n• 0.25 bag – Fresh Red Onions\n• 1 bag – Great Value Colby Jack Shredded Cheese
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-09-02-schedprep@plan.py
+DTSTART;VALUE=DATE:20260902
+DTEND;VALUE=DATE:20260903
+SUMMARY:🛒 Start pork shoulder in the slow cooker Wednesday morning
+DESCRIPTION:Carnitas Tacos is in 0 days
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-09-03-meal@plan.py
