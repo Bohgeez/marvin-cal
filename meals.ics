@@ -188,13 +188,6 @@ SUMMARY:🧊 Defrost pork chops Friday night for Saturday
 DESCRIPTION:Pork Chops + Roasted Potatoes is tomorrow
 END:VEVENT
 BEGIN:VEVENT
-UID:2026-08-30-meal@plan.py
-DTSTART;VALUE=DATE:20260830
-DTEND;VALUE=DATE:20260831
-SUMMARY:🍽 Chicken Legs, Brown Rice, and Broccoli Normandy
-DESCRIPTION:Swapped same-day from planned Beef Chili + Cornbread — Boggs cooking chicken legs (1 lb on hand per Aug 30 fridge recount)\, brown rice\, and broccoli normandy instead. Not a tracked library recipe — no automatic inventory deduction when marked done; update manually. Beef Chili + Cornbread rolled forward to Sep 14.
-END:VEVENT
-BEGIN:VEVENT
 UID:2026-08-31-meal@plan.py
 DTSTART;VALUE=DATE:20260831
 DTEND;VALUE=DATE:20260901
