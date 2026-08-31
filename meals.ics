@@ -356,9 +356,9 @@ SUMMARY:🍽 Taco Wednesday — Chicken Quesadillas
 DESCRIPTION:Cook time: 25 min\n\nSides: refried beans / sweet corn\n\nRolled forward from Sep 2\, which was taken over by Carnitas Tacos (itself displaced from the Aug 29 Saturday slow-cook slot).\n\nSwitched to high-fiber tortillas.\n\nIngredients:\n• 1.0 lb – Chicken Breast\n• 1 pkg – Mission Carb Balance High Fiber Flour Tortillas\, 8 ct\n• 1 bag – Great Value Colby Jack Shredded Cheese\n• 0.25 tub – Daisy Sour Cream\n• 0.05 bottle – Great Value Tomato Ketchup
 END:VEVENT
 BEGIN:VEVENT
-UID:lowstock-20260830@plan.py
-DTSTART;VALUE=DATE:20260830
-DTEND;VALUE=DATE:20260831
+UID:lowstock-20260831@plan.py
+DTSTART;VALUE=DATE:20260831
+DTEND;VALUE=DATE:20260901
 SUMMARY:🛒 Low Stock — 17 item(s)
 DESCRIPTION:• Great Value Large White Eggs — 6.0 eggs (min 6 eggs) [sams]\n• Danimals Strawberry & Banana Smoothie Bottles — OUT (min 6 bottles) [walmart]\n• Chobani 20G Protein Lowfat Greek Yogurt Drink — OUT (min 2 cups) [sams]\n• Great Value Frozen Broccoli Florets — 2.0 bags (min 2 bags) [walmart]\n• Hot Pockets Pepperoni Pizza Sandwiches — OUT (min 4 each) [walmart]\n• Smucker's Uncrustables Hazelnut (prior) — OUT (min 4 each) [walmart]\n• Great Value Cherry Berry Blend — 0.1 bag (min 0.5 bag) [walmart]\n• Member's Mark 80/20 Ground Beef — 3.0 lb (min 3 lb) [sams]\n• Honeycrisp Apples — OUT (min 1 lb) [sams]\n• Fresh Bell Peppers (multi-color) — OUT (min 2 each) [walmart]\n• Great Value Minced Garlic in Water — 0.5 jar (min 0.5 jar) [walmart]\n• Kingsford Original Charcoal Briquettes — OUT (min 1 bag) [walmart]\n• Knorr Pasta Sides Four Cheese Fusilli — OUT (min 2 pkg) [sams]\n• Member's Mark Rising Crust Four Cheese Pizza — OUT (min 2 pkg) [sams]\n• Frito Lay Classic Mix Variety Pack, 18 ct — OUT (min 1 box) [walmart]\n• Club Minis Original Mini Crackers, 10 ct — OUT (min 1 box) [walmart]\n• Crunch Pak SpongeBob Snacker, 4.25 oz — OUT (min 2 trays) [walmart]
 END:VEVENT
